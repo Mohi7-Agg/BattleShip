@@ -1,0 +1,11 @@
+Command to Run :
+
+1) Build the solution this will create the executable file
+
+Thoughtworks_BattleShip.exe <Enter File path>
+
+File path - C:\Input.txt
+
+
+
+	
