@@ -1,7 +1,0 @@
-E:\Thoughtworks_BattleShip\Thoughtworks_BattleShip\bin\Debug\Thoughtworks_BattleShip.exe.config
-E:\Thoughtworks_BattleShip\Thoughtworks_BattleShip\bin\Debug\Thoughtworks_BattleShip.exe
-E:\Thoughtworks_BattleShip\Thoughtworks_BattleShip\bin\Debug\Thoughtworks_BattleShip.pdb
-E:\Thoughtworks_BattleShip\Thoughtworks_BattleShip\obj\Debug\Thoughtworks_BattleShip.csprojAssemblyReference.cache
-E:\Thoughtworks_BattleShip\Thoughtworks_BattleShip\obj\Debug\Thoughtworks_BattleShip.csproj.CoreCompileInputs.cache
-E:\Thoughtworks_BattleShip\Thoughtworks_BattleShip\obj\Debug\Thoughtworks_BattleShip.exe
-E:\Thoughtworks_BattleShip\Thoughtworks_BattleShip\obj\Debug\Thoughtworks_BattleShip.pdb
